@@ -106,11 +106,10 @@ Universitas Pelita Bangsa
 # Jawab Pertanyaan Berikut
 ```
 1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
-Ada error ketika saya salah penulisan Heading <h1> tidak ditutup dengan </h1> jadi tidak terjadi perubahan.
+Tidak Ada
 
 2. Apa perbedaan dari tag <p> dengan tag <br> berikan penjelasannya!
-Dari hasil praktek saya sendiri, perbedaan  tag <br> jarak enter nya lebih jauh 1 line dibandingkan
-dengan tag <p> yg jarak enter nya tidak terlalu jauh.
+perbedaan  tag <br> jarak enter nya lebih jauh 1 line dibandingkan dengan tag <p> yg jarak enter nya tidak terlalu jauh.
 
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 atribut tittle pada tag <img> digunakan untuk memberi judul pada gambar yg disisipkan, sedangkan
