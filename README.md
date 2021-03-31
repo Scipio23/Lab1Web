@@ -50,7 +50,7 @@ Universitas Pelita Bangsa
 ![lab3](https://user-images.githubusercontent.com/56240851/112970592-354b7880-9103-11eb-91d5-1dfab4a7aab4.png)
 
 # LANGKAH 4
-# Memformat Teks menggunakan format-format teks yang ada seperti <b>, <strong>, <i>, <em>, <mark>, <small>, <dell>, <ins>, <sub>,dan <sup>
+# Memformat Teks menggunakan format-format teks yang ada seperti```<b>, <strong>, <i>, <em>, <mark>, <small>, <dell>, <ins>, <sub>,dan <sup>```
 ```
 <p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
     Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
